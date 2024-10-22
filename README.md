@@ -1,6 +1,8 @@
 # Investigating the impact of diversity on stability and resilience
 Authors: M.L. Doolin, W.Z. Stephens, S.B. Weinstein, J.L. Round, M.D. Dearing
+
 Institution: University of Utah
+
 This is a repository for files associated with the manuscript, "Low microbiota diversity leads to instability and reduced resilience to perturbation".
 
 ## Experimental approach
