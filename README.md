@@ -1,4 +1,4 @@
-# Investigating the impact of diversity on stability and resilience
+# Investigating the relationship between richness and stability in a host-associated microbiota
 Authors: M.L. Doolin, S.B. Weinstein, W.Z. Stephens, R. Greenhalgh, J.L. Round, M.D. Dearing
 
 Institution: University of Utah
